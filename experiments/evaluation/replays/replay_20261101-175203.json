@@ -1,0 +1,39 @@
+{
+  "mode": "dataset replay",
+  "split": "test",
+  "seed": 42,
+  "records_scored": 103889,
+  "correct": 101885,
+  "predicted_by_class": {
+    "MQTT_DDoS_Connect_Flood": 41916,
+    "Benign": 37088,
+    "Recon_Port_Scan": 22769,
+    "ARP_Spoofing": 2116
+  },
+  "actual_by_class": {
+    "MQTT_DDoS_Connect_Flood": 41916,
+    "Benign": 37607,
+    "Recon_Port_Scan": 22622,
+    "ARP_Spoofing": 1744
+  },
+  "new_alerts": 3,
+  "alerted_events_by_severity": {
+    "High": {
+      "true_attack": 22257,
+      "actually_benign": 875,
+      "share_true_attack": 0.9621736123119489
+    },
+    "Medium": {
+      "true_attack": 594,
+      "actually_benign": 330,
+      "share_true_attack": 0.6428571428571429
+    },
+    "Critical": {
+      "true_attack": 42743,
+      "actually_benign": 2,
+      "share_true_attack": 0.9999532109018598
+    }
+  },
+  "records_rejected": 0,
+  "seconds": 32.23108830000274
+}

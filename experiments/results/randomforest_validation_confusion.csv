@@ -1,0 +1,5 @@
+,predicted_Benign,predicted_ARP_Spoofing,predicted_MQTT_DDoS_Connect_Flood,predicted_Recon_Port_Scan
+actual_Benign,38485,38,0,24
+actual_ARP_Spoofing,355,2823,0,31
+actual_MQTT_DDoS_Connect_Flood,0,0,34607,1
+actual_Recon_Port_Scan,167,58,0,16571

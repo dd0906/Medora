@@ -1,0 +1,87 @@
+{
+  "candidate": "max_features_0.3",
+  "params": {
+    "n_estimators": 100,
+    "max_depth": 20,
+    "min_samples_leaf": 2,
+    "random_state": 42,
+    "n_jobs": -1,
+    "max_features": 0.3
+  },
+  "rows": 103889,
+  "accuracy": 0.9762438756749993,
+  "balanced_accuracy": 0.9108486026507076,
+  "macro_precision": 0.8673914879727551,
+  "macro_recall": 0.9108486026507076,
+  "macro_f1": 0.8856245136961767,
+  "weighted_f1": 0.9773252664376098,
+  "benign_false_alarm_rate": 0.04573616613928258,
+  "attack_detection_rate": 0.9900274584351709,
+  "alert_precision": 0.9744583537518006,
+  "per_class": {
+    "Benign": {
+      "precision": 0.9819141950311918,
+      "recall": 0.9542638338607174,
+      "f1": 0.9678915784505427,
+      "support": 37607,
+      "roc_auc": 0.9986007032802527,
+      "pr_auc": 0.9974024953161994
+    },
+    "ARP_Spoofing": {
+      "precision": 0.5165254237288136,
+      "recall": 0.6989678899082569,
+      "f1": 0.5940545808966862,
+      "support": 1744,
+      "roc_auc": 0.9861148322608487,
+      "pr_auc": 0.7482632823016394
+    },
+    "MQTT_DDoS_Connect_Flood": {
+      "precision": 1.0,
+      "recall": 0.9999761427617139,
+      "f1": 0.9999880712385633,
+      "support": 41916,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0
+    },
+    "Recon_Port_Scan": {
+      "precision": 0.9711263331310154,
+      "recall": 0.9901865440721421,
+      "f1": 0.9805638241989144,
+      "support": 22622,
+      "roc_auc": 0.9996227365250838,
+      "pr_auc": 0.9988508611386245
+    }
+  },
+  "confusion_matrix": [
+    [
+      35887,
+      1099,
+      0,
+      621
+    ],
+    [
+      481,
+      1219,
+      0,
+      44
+    ],
+    [
+      0,
+      0,
+      41915,
+      1
+    ],
+    [
+      180,
+      42,
+      0,
+      22400
+    ]
+  ],
+  "macro_roc_auc": 0.9960845680165464,
+  "macro_pr_auc": 0.9361291596891158,
+  "inference": {
+    "batch_microseconds_per_row": 1.8173868263225923,
+    "single_row_milliseconds": 6.665138999999272
+  }
+}

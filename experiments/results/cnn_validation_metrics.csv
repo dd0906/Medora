@@ -1,0 +1,2 @@
+model,accuracy,balanced_accuracy,macro_f1,arp_precision,arp_recall,arp_f1,benign_false_alarm_rate,best_epoch,last_epoch_completed,epochs_run_this_session,training_seconds_this_session
+CNN,0.9549699441820524,0.815341550311887,0.8319912048979825,0.5087561742254153,0.3530694920535993,0.416850625459897,0.025708874880016604,9,12,12,180.87956069997745

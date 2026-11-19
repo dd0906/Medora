@@ -1,0 +1,33 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+address = "127.0.0.1"
+headless = true
+
+[client]
+toolbarMode = "minimal"
+
+[theme]
+base = "dark"
+primaryColor = "#60A5FA"
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#1E293B"
+codeBackgroundColor = "#1E293B"
+textColor = "#F1F5F9"
+linkColor = "#60A5FA"
+borderColor = "#334155"
+codeTextColor = "#CBD5E1"
+showWidgetBorder = true
+showSidebarBorder = true
+baseRadius = "6px"
+buttonRadius = "6px"
+baseFontSize = 14
+headingFontSizes = ["28px", "22px", "18px", "16px", "14px", "12px"]
+greenColor = "#34D399"
+redColor = "#F87171"
+yellowColor = "#FBBF24"
+orangeColor = "#FB923C"
+blueColor = "#60A5FA"
+violetColor = "#A78BFA"
+grayColor = "#94A3B8"

@@ -1,0 +1,12 @@
+{
+  "selected": "random_forest",
+  "rule": "Highest mean cross-validated macro_f1; random_forest is kept unless beaten by more than 0.005.",
+  "cv_scores": {
+    "random_forest": 0.9511394537416706,
+    "logistic_regression": 0.8328330935896157,
+    "mlp": 0.8883210766442291,
+    "lightgbm": 0.9522219199020933,
+    "rf_balanced_subsample": 0.9280413089859826
+  },
+  "test_split_used": false
+}

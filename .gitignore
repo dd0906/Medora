@@ -1,0 +1,25 @@
+# Environment
+.venv/
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Dataset files: large, and redistribution depends on the dataset's license
+data/raw/
+data/external/
+data/processed/*_processed.csv
+
+# Capture results name dataset devices by MAC address. Scripts recreate these locally.
+experiments/evaluation/arp_rules_*/
+experiments/evaluation/baseline_development_*/
+experiments/evaluation/baseline_final_*/
+experiments/evaluation/baseline_corroborate_*/
+experiments/evaluation/baseline_other_attacks_*/
+
+# Model binaries and local databases
+models/*.joblib
+models/*.pt
+models/*baseline*.json
+*.db
+*.sqlite3

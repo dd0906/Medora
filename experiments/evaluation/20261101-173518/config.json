@@ -1,0 +1,222 @@
+{
+  "run_id": "20261101-173518",
+  "dataset": "CICIoMT2024 (WiFi/MQTT extracted-feature CSVs, 4-class subset)",
+  "dataset_sha256": {
+    "train_processed.csv": "40ffa8db1eb6143d79788bfd3e5a24c7fe7adeec086eb118b5bc64bc89b35050",
+    "test_processed.csv": "73cb8bf49bfed0821a79c0e3705bb38417d497b325b2c6e8c25561f2f8fede81"
+  },
+  "seed": 42,
+  "cv": {
+    "folds": 5,
+    "method": "StratifiedGroupKFold, grouped by exact feature vector"
+  },
+  "selection_metric": "macro_f1",
+  "primary_tolerance": 0.005,
+  "excluded_features": [
+    "IAT"
+  ],
+  "candidates": {
+    "random_forest": {
+      "params": {
+        "bootstrap": true,
+        "ccp_alpha": 0.0,
+        "class_weight": null,
+        "criterion": "gini",
+        "max_depth": 20,
+        "max_features": "sqrt",
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 2,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 100,
+        "n_jobs": -1,
+        "oob_score": false,
+        "random_state": 42,
+        "verbose": 0,
+        "warm_start": false
+      },
+      "selectable": true,
+      "feature_count": 44,
+      "purpose": "Candidate model"
+    },
+    "logistic_regression": {
+      "params": {
+        "memory": null,
+        "steps": [
+          [
+            "scaler",
+            "StandardScaler()"
+          ],
+          [
+            "classifier",
+            "LogisticRegression(max_iter=1000, random_state=42)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "scaler": "StandardScaler()",
+        "classifier": "LogisticRegression(max_iter=1000, random_state=42)",
+        "scaler__copy": true,
+        "scaler__with_mean": true,
+        "scaler__with_std": true,
+        "classifier__C": 1.0,
+        "classifier__class_weight": null,
+        "classifier__dual": false,
+        "classifier__fit_intercept": true,
+        "classifier__intercept_scaling": 1,
+        "classifier__l1_ratio": 0.0,
+        "classifier__max_iter": 1000,
+        "classifier__n_jobs": null,
+        "classifier__penalty": "deprecated",
+        "classifier__random_state": 42,
+        "classifier__solver": "lbfgs",
+        "classifier__tol": 0.0001,
+        "classifier__verbose": 0,
+        "classifier__warm_start": false
+      },
+      "selectable": true,
+      "feature_count": 44,
+      "purpose": "Candidate model"
+    },
+    "mlp": {
+      "params": {
+        "memory": null,
+        "steps": [
+          [
+            "scaler",
+            "StandardScaler()"
+          ],
+          [
+            "classifier",
+            "MLPClassifier(batch_size=2048, early_stopping=True, hidden_layer_sizes=(64, 32),\n              max_iter=100, n_iter_no_change=8, random_state=42)"
+          ]
+        ],
+        "transform_input": null,
+        "verbose": false,
+        "scaler": "StandardScaler()",
+        "classifier": "MLPClassifier(batch_size=2048, early_stopping=True, hidden_layer_sizes=(64, 32),\n              max_iter=100, n_iter_no_change=8, random_state=42)",
+        "scaler__copy": true,
+        "scaler__with_mean": true,
+        "scaler__with_std": true,
+        "classifier__activation": "relu",
+        "classifier__alpha": 0.0001,
+        "classifier__batch_size": 2048,
+        "classifier__beta_1": 0.9,
+        "classifier__beta_2": 0.999,
+        "classifier__early_stopping": true,
+        "classifier__epsilon": 1e-08,
+        "classifier__hidden_layer_sizes": [
+          64,
+          32
+        ],
+        "classifier__learning_rate": "constant",
+        "classifier__learning_rate_init": 0.001,
+        "classifier__max_fun": 15000,
+        "classifier__max_iter": 100,
+        "classifier__momentum": 0.9,
+        "classifier__n_iter_no_change": 8,
+        "classifier__nesterovs_momentum": true,
+        "classifier__power_t": 0.5,
+        "classifier__random_state": 42,
+        "classifier__shuffle": true,
+        "classifier__solver": "adam",
+        "classifier__tol": 0.0001,
+        "classifier__validation_fraction": 0.1,
+        "classifier__verbose": false,
+        "classifier__warm_start": false
+      },
+      "selectable": true,
+      "feature_count": 44,
+      "purpose": "Candidate model"
+    },
+    "lightgbm": {
+      "params": {
+        "boosting_type": "gbdt",
+        "class_weight": null,
+        "colsample_bytree": 0.8,
+        "importance_type": "gain",
+        "learning_rate": 0.05,
+        "max_depth": -1,
+        "min_child_samples": 20,
+        "min_child_weight": 0.001,
+        "min_split_gain": 0.0,
+        "n_estimators": 300,
+        "n_jobs": -1,
+        "num_leaves": 31,
+        "objective": "multiclass",
+        "random_state": 42,
+        "reg_alpha": 0.0,
+        "reg_lambda": 1.0,
+        "subsample": 0.8,
+        "subsample_for_bin": 200000,
+        "subsample_freq": 1,
+        "verbosity": -1
+      },
+      "selectable": true,
+      "feature_count": 44,
+      "purpose": "Candidate model"
+    },
+    "rf_balanced_subsample": {
+      "params": {
+        "bootstrap": true,
+        "ccp_alpha": 0.0,
+        "class_weight": "balanced_subsample",
+        "criterion": "gini",
+        "max_depth": 20,
+        "max_features": "sqrt",
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 2,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 100,
+        "n_jobs": -1,
+        "oob_score": false,
+        "random_state": 42,
+        "verbose": 0,
+        "warm_start": false
+      },
+      "selectable": true,
+      "feature_count": 44,
+      "purpose": "Class-imbalance option; also the configuration of the recorded 97.94% run"
+    },
+    "rf_with_iat": {
+      "params": {
+        "bootstrap": true,
+        "ccp_alpha": 0.0,
+        "class_weight": null,
+        "criterion": "gini",
+        "max_depth": 20,
+        "max_features": "sqrt",
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 2,
+        "min_samples_split": 2,
+        "min_weight_fraction_leaf": 0.0,
+        "monotonic_cst": null,
+        "n_estimators": 100,
+        "n_jobs": -1,
+        "oob_score": false,
+        "random_state": 42,
+        "verbose": 0,
+        "warm_start": false
+      },
+      "selectable": false,
+      "feature_count": 45,
+      "purpose": "Diagnostic: the earlier configuration, showing how much scores rely on IAT"
+    }
+  },
+  "versions": {
+    "python": "3.11.9",
+    "scikit-learn": "1.9.1",
+    "lightgbm": "4.7.0",
+    "pandas": "3.0.6",
+    "numpy": "2.4.6"
+  }
+}

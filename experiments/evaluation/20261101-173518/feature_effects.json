@@ -1,0 +1,157 @@
+{
+  "model_version": "medora_random_forest_20261101-173518",
+  "method": "Tree path contributions, averaged over test records predicted as each type",
+  "split": "test",
+  "seed": 42,
+  "created_at": "2026-11-16T20:03:54+00:00",
+  "types": {
+    "Benign": {
+      "records": 500,
+      "features": [
+        {
+          "feature": "fin_count",
+          "average_effect": 0.056876843406720654
+        },
+        {
+          "feature": "syn_flag_number",
+          "average_effect": 0.04685352746252305
+        },
+        {
+          "feature": "Header_Length",
+          "average_effect": 0.04323804782456954
+        },
+        {
+          "feature": "fin_flag_number",
+          "average_effect": 0.04148078345636886
+        },
+        {
+          "feature": "Tot size",
+          "average_effect": 0.03935771640877462
+        },
+        {
+          "feature": "Srate",
+          "average_effect": 0.037248361975882514
+        },
+        {
+          "feature": "rst_count",
+          "average_effect": 0.036738100166945516
+        },
+        {
+          "feature": "Rate",
+          "average_effect": 0.032095710604691005
+        }
+      ]
+    },
+    "ARP_Spoofing": {
+      "records": 500,
+      "features": [
+        {
+          "feature": "Header_Length",
+          "average_effect": 0.18748137196587575
+        },
+        {
+          "feature": "UDP",
+          "average_effect": 0.045841353454363076
+        },
+        {
+          "feature": "rst_count",
+          "average_effect": 0.03321067054667657
+        },
+        {
+          "feature": "Min",
+          "average_effect": 0.029498119294887527
+        },
+        {
+          "feature": "Protocol Type",
+          "average_effect": 0.025434812899915192
+        },
+        {
+          "feature": "Duration",
+          "average_effect": 0.024514273379981476
+        },
+        {
+          "feature": "Magnitue",
+          "average_effect": 0.022929982080238345
+        },
+        {
+          "feature": "ack_flag_number",
+          "average_effect": 0.022844524484681696
+        }
+      ]
+    },
+    "MQTT_DDoS_Connect_Flood": {
+      "records": 500,
+      "features": [
+        {
+          "feature": "fin_flag_number",
+          "average_effect": 0.14155324896761198
+        },
+        {
+          "feature": "ack_count",
+          "average_effect": 0.09368238933658411
+        },
+        {
+          "feature": "syn_flag_number",
+          "average_effect": 0.05466798822538799
+        },
+        {
+          "feature": "Tot size",
+          "average_effect": 0.032742265554694394
+        },
+        {
+          "feature": "Header_Length",
+          "average_effect": 0.031094937385838604
+        },
+        {
+          "feature": "rst_count",
+          "average_effect": 0.028033829453455054
+        },
+        {
+          "feature": "fin_count",
+          "average_effect": 0.02724868167016639
+        },
+        {
+          "feature": "Covariance",
+          "average_effect": 0.02514543197233473
+        }
+      ]
+    },
+    "Recon_Port_Scan": {
+      "records": 500,
+      "features": [
+        {
+          "feature": "Tot size",
+          "average_effect": 0.08110192474160283
+        },
+        {
+          "feature": "fin_flag_number",
+          "average_effect": 0.07550608440213494
+        },
+        {
+          "feature": "Magnitue",
+          "average_effect": 0.07544139897938743
+        },
+        {
+          "feature": "ack_count",
+          "average_effect": 0.057988771121945525
+        },
+        {
+          "feature": "AVG",
+          "average_effect": 0.052978300706031246
+        },
+        {
+          "feature": "rst_count",
+          "average_effect": 0.05257371601342719
+        },
+        {
+          "feature": "Header_Length",
+          "average_effect": 0.05225696530611129
+        },
+        {
+          "feature": "fin_count",
+          "average_effect": 0.0519363924938608
+        }
+      ]
+    }
+  }
+}

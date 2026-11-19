@@ -1,0 +1,5 @@
+file,rows,columns,missing_cells,infinite_cells,nonnumeric_cells,size_MB
+ARP_Spoofing_train.pcap.csv,16047,45,0,0,0,4.61
+Benign_train.pcap.csv,192732,45,0,0,0,56.7
+MQTT-DDoS-Connect_Flood_train.pcap.csv,173036,45,0,0,0,52.41
+Recon-Port_Scan_train.pcap.csv,83981,45,0,0,0,21.54

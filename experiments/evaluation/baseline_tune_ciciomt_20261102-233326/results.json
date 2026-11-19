@@ -1,0 +1,1098 @@
+{
+  "network": "ciciomt",
+  "budget": 1.0,
+  "selected": {
+    "quantile": 0.99,
+    "multiplier": 3.0,
+    "min_features": 1,
+    "min_windows": 1,
+    "findings": 4,
+    "unknown_device_findings": 0,
+    "findings_per_hour": 0.6030150753768844,
+    "flagged_windows": 6
+  },
+  "fit_windows": 926,
+  "check_hours": 6.633333333333334,
+  "trials": [
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 52,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 7.839195979899497,
+      "flagged_windows": 67
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 15,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 2.2613065326633164,
+      "flagged_windows": 30
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 9,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 1.3567839195979898,
+      "flagged_windows": 10
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.1507537688442211,
+      "flagged_windows": 2
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 3,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.4522613065326633,
+      "flagged_windows": 3
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 7,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 1.0552763819095476,
+      "flagged_windows": 9
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.3015075376884422,
+      "flagged_windows": 4
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 1,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.1507537688442211,
+      "flagged_windows": 2
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.1507537688442211,
+      "flagged_windows": 2
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 7,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 1.0552763819095476,
+      "flagged_windows": 9
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.3015075376884422,
+      "flagged_windows": 4
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 1,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.1507537688442211,
+      "flagged_windows": 2
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.1507537688442211,
+      "flagged_windows": 2
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 4,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.6030150753768844,
+      "flagged_windows": 6
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.3015075376884422,
+      "flagged_windows": 4
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 1,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.1507537688442211,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 10,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 1.507537688442211,
+      "flagged_windows": 10
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 1,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.1507537688442211,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 1,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.1507537688442211,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 1,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.1507537688442211,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 5,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.7537688442211055,
+      "flagged_windows": 5
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 1,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.1507537688442211,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 1,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.1507537688442211,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 0,
+      "unknown_device_findings": 0,
+      "findings_per_hour": 0.0,
+      "flagged_windows": 0
+    }
+  ]
+}

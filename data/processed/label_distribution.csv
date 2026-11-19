@@ -1,0 +1,9 @@
+split,label,rows
+train,Benign,192732
+train,ARP_Spoofing,16047
+train,MQTT_DDoS_Connect_Flood,173036
+train,Recon_Port_Scan,83981
+test,Benign,37607
+test,ARP_Spoofing,1744
+test,MQTT_DDoS_Connect_Flood,41916
+test,Recon_Port_Scan,22622

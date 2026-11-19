@@ -1,0 +1,1098 @@
+{
+  "network": "ciciot2023",
+  "budget": 1.0,
+  "selected": {
+    "quantile": 0.99,
+    "multiplier": 1.0,
+    "min_features": 1,
+    "min_windows": 3,
+    "findings": 2,
+    "unknown_device_findings": 1,
+    "findings_per_hour": 0.40268456375838924,
+    "flagged_windows": 11
+  },
+  "fit_windows": 693,
+  "check_hours": 4.966666666666667,
+  "trials": [
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 90,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 18.120805369127517,
+      "flagged_windows": 107
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 10,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 2.013422818791946,
+      "flagged_windows": 27
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 11
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 43,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 8.657718120805368,
+      "flagged_windows": 45
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 3,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.6040268456375839,
+      "flagged_windows": 5
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 20,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 4.026845637583892,
+      "flagged_windows": 21
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 3
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 35,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 7.046979865771812,
+      "flagged_windows": 41
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 4,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.8053691275167785,
+      "flagged_windows": 10
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 6
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 17,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 3.4228187919463084,
+      "flagged_windows": 19
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 3,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.6040268456375839,
+      "flagged_windows": 5
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 12,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 2.4161073825503356,
+      "flagged_windows": 13
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 3
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 31,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 6.241610738255034,
+      "flagged_windows": 34
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 3,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.6040268456375839,
+      "flagged_windows": 6
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 4
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 13,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 2.61744966442953,
+      "flagged_windows": 14
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 3
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 9,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 1.8120805369127517,
+      "flagged_windows": 9
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 22,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 4.429530201342282,
+      "flagged_windows": 24
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 3,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.6040268456375839,
+      "flagged_windows": 5
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 8,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 1.610738255033557,
+      "flagged_windows": 9
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 3
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 5,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 1.006711409395973,
+      "flagged_windows": 5
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.99,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 33,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 6.644295302013423,
+      "flagged_windows": 39
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 8
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 8
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 14,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 2.8187919463087248,
+      "flagged_windows": 15
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 3
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 10,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 2.013422818791946,
+      "flagged_windows": 10
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 18,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 3.6241610738255035,
+      "flagged_windows": 22
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 6
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 6
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 9,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 1.8120805369127517,
+      "flagged_windows": 9
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 6,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 1.2080536912751678,
+      "flagged_windows": 6
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 16,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 3.221476510067114,
+      "flagged_windows": 16
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 8,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 1.610738255033557,
+      "flagged_windows": 8
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 5,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 1.006711409395973,
+      "flagged_windows": 5
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 12,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 2.4161073825503356,
+      "flagged_windows": 12
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 5,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 1.006711409395973,
+      "flagged_windows": 5
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 2
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 0.999,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 24,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 4.832214765100671,
+      "flagged_windows": 30
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 8
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 8
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 11,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 2.214765100671141,
+      "flagged_windows": 12
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 3
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 10,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 2.013422818791946,
+      "flagged_windows": 10
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 16,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 3.221476510067114,
+      "flagged_windows": 18
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 4
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 4
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 7,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 1.4093959731543624,
+      "flagged_windows": 7
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 4,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.8053691275167785,
+      "flagged_windows": 4
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 1.5,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 13,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 2.61744966442953,
+      "flagged_windows": 13
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 6,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 1.2080536912751678,
+      "flagged_windows": 6
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 2
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 2.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 1,
+      "findings": 9,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 1.8120805369127517,
+      "flagged_windows": 9
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 1,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 1,
+      "findings": 3,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.6040268456375839,
+      "flagged_windows": 3
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 2,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 1,
+      "findings": 2,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.40268456375838924,
+      "flagged_windows": 2
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 2,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    },
+    {
+      "quantile": 1.0,
+      "multiplier": 3.0,
+      "min_features": 3,
+      "min_windows": 3,
+      "findings": 1,
+      "unknown_device_findings": 1,
+      "findings_per_hour": 0.20134228187919462,
+      "flagged_windows": 1
+    }
+  ]
+}

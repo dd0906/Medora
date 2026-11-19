@@ -1,0 +1,10 @@
+{
+  "quantile": 0.99,
+  "multiplier": 3.0,
+  "min_features": 1,
+  "min_windows": 1,
+  "findings": 4,
+  "unknown_device_findings": 0,
+  "findings_per_hour": 0.6030150753768844,
+  "flagged_windows": 6
+}
